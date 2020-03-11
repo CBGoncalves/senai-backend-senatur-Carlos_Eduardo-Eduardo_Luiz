@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Senai.Senatur.WebApi.Domains;
@@ -10,7 +11,10 @@ using Senai.Senatur.WebApi.Repositories;
 
 namespace Senai.Senatur.WebApi.Controllers
 {
+    [Produces("application/json")]
+
     [Route("api/[controller]")]
+
     [ApiController]
     public class PacotesController : ControllerBase
     {
@@ -31,6 +35,7 @@ namespace Senai.Senatur.WebApi.Controllers
         /// Lista todos os pacotes
         /// </summary>
         /// <returns>Uma lista de pacotes e um status code 200 - Ok</returns>
+        [Authorize]
         [HttpGet]
         public IActionResult Get()
         {
@@ -43,6 +48,7 @@ namespace Senai.Senatur.WebApi.Controllers
         /// </summary>
         /// <param name="novoPacote">Objeto que sera cadastrado</param>
         /// <returns>Um Status Code 201</returns>
+        [Authorize (Roles = "1")]
         [HttpPost]
         public IActionResult Post(Pacotes novoPacote)
         {
@@ -54,12 +60,21 @@ namespace Senai.Senatur.WebApi.Controllers
 
         }
 
+        [Authorize(Roles = "1")]
         [HttpPut("{id}")]
         public IActionResult Put(int id, Pacotes pacoteAtualizado)
         {
             _pacoteRepository.Atualizar(id, pacoteAtualizado);
 
             return StatusCode(204);
+        }
+
+        [Authorize(Roles = "1")]
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            // Retora a resposta da requisição fazendo a chamada para o método
+            return Ok(_pacoteRepository.BuscarPorId(id));
         }
 
 

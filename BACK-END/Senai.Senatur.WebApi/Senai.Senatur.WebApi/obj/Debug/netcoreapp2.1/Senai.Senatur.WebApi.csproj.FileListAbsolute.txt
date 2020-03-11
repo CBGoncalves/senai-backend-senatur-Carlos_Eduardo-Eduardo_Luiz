@@ -12,3 +12,31 @@ C:\Users\43442346851\source\repos\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\
 C:\Users\43442346851\source\repos\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb
 C:\Users\43442346851\source\repos\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.dll
 C:\Users\43442346851\source\repos\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.deps.json
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.runtimeconfig.json
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.runtimeconfig.dev.json
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.dll
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.csprojAssemblyReference.cache
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorAssemblyInfo.cache
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorAssemblyInfo.cs
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.AssemblyInfoInputs.cache
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.AssemblyInfo.cs
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.dll
+C:\Users\43442346851\Desktop\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.deps.json
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.runtimeconfig.json
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.runtimeconfig.dev.json
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.dll
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.csprojAssemblyReference.cache
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorAssemblyInfo.cache
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorAssemblyInfo.cs
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.AssemblyInfoInputs.cache
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.AssemblyInfo.cs
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.dll
+C:\Users\40205836844\Desktop\Corinthians 2012\senai-backend-senatur-Carlos_Eduardo-Eduardo_Luiz\BACK-END\Senai.Senatur.WebApi\Senai.Senatur.WebApi\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.pdb

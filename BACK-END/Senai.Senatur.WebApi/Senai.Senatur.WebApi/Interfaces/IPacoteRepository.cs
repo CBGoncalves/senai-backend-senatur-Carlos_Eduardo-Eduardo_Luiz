@@ -25,5 +25,7 @@ namespace Senai.Senatur.WebApi.Interfaces
         /// </summary>
         /// <param name="pacoteAtualizado">Objeto com as novas informações</param>
         void Atualizar(int id, Pacotes pacoteAtualizado);
+
+        Pacotes BuscarPorId(int id);
     }
 }

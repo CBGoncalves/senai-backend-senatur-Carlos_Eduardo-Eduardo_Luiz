@@ -25,6 +25,11 @@ namespace Senai.Senatur.WebApi.Repositories
             ctx.SaveChanges();
         }
 
+        public Pacotes BuscarPorId(int id)
+        {
+            return ctx.Pacotes.FirstOrDefault(p => p.IdPacote == id);
+        }
+
         public void Cadastrar(Pacotes novoPacote)
         {
             ctx.Pacotes.Add(novoPacote);
